@@ -28,7 +28,7 @@ To implement HASH ALGORITHM
 
 ## Program:
 ~~~
-   #include <stdio.h>
+#include <stdio.h>
 #include <string.h>
 
 void computeSimpleHash(const char *message, unsigned char *hash) {
